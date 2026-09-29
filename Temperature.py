@@ -6,6 +6,7 @@ def convertsTemperature(value, unit):
     else :
         print("Unit Harus 'C' atau 'F'")
 
+input_suhu = float(input("Masukkan nilai suhu: "))
 
 
    
